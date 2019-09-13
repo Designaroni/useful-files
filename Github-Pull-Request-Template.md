@@ -38,5 +38,5 @@
 
 
 ## **Gotcha's**
-**_Any concerns for the timing of this deployment, related dependancies or additional need to know information?_**
+**_Any concerns for the timing of this deployment, related dependencies or additional need to know information?_**
 
