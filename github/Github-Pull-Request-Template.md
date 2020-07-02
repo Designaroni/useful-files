@@ -12,11 +12,10 @@
 **_Mockups_**
 
 
-**_Ticket, Task or Initial Request_**
+**_Ticket, Task, Creative Brief, Project Documentation or Initial Request_**
 
 
 **_Any additional relevant project docs?_**
-
 
 ## **Staging Links**
 - …
