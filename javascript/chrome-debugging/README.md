@@ -10,3 +10,15 @@ https://stackoverflow.com/questions/11849562/how-to-save-the-output-of-a-console
 ### Changing Data on the fly
 
 https://stackoverflow.com/questions/4603021/is-it-possible-to-change-javascript-variable-values-while-debugging-in-google-ch
+
+### Using local files to override CSS Stylesheets & JavaScript scripts
+
+https://developers.google.com/web/updates/2018/01/devtools#overrides
+
+### Using Chrome Inpspector to view animations & slow down site interactions
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations
+
+### Using the Google Chrome Inspector Performance tab
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance
