@@ -1,0 +1,28 @@
+# .gitignore [see ref ->](https://git-scm.com/docs/gitignore#_pattern_format)
+# ignore .DS_Store [see more ->](https://en.wikipedia.org/wiki/.DS_Store)
+.DS_Store
+# ignore node_modules directory created by NPM or YARN
+node_modules/
+# ignore common dist directories
+_dist/
+dist/
+# ignore commong temporary directories
+_tmp/
+tmp/
+temp/
+# ignore Jet Brains intelliJ .idea/ directory & files
+.idea/
+# ignore vscode editor directory if you don't want to be sharing settings across project users
+.vscode/
+# optional - evaluate if the project should ignore yarn lock file
+yarn.lock
+# optional - evaluate if the project should ignore package json lock file
+package-lock.json
+# optional (personal preference here) - ignore scratch directory
+scratch/ 
+# ignore .log files
+*.log
+# ignore hidden cache files
+.cache
+# ignore hidden eslintcache files
+.eslintcache

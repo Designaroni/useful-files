@@ -11,19 +11,32 @@
 
 - Markdown (.md) files should be declared in all caps: `README.md`, `CHANGELOG.md`, `CONTRIBUTING.md`
 	- Only the extension .md should be used, not .markdown
-- License files declaring copyright can also be declared in all caps `LICENSE` 
+- License files declaring copyright can also be declared in all caps: `LICENSE` 
 - Directory & Filenames should be declared in lowercase-kabob-case only unless an expection applies.
 - Reasonable naming convention exceptions:
 	- The SASS underscore: A partial is a Sass file named with a leading underscore. You might name it something like `_partial.scss`. The underscore lets Sass know that the file is only a partial file and that it should not be generated into a CSS file. Sass partials are used with the @use rule. [see ref ->](https://sass-lang.com/guide#topic-4)
-	- Some React projects may decide to use a folder or file structure that mimics PascalCase component naming conventions [see ref ->](https://stackoverflow.com/a/56196707)
+	- Some React projects may decide to use a folder or file structure that mimics PascalCase component naming conventions [see more ->](https://stackoverflow.com/a/56196707)
 	- in general: keep it kabob-case unless a project, framework or tooling call for something different
+
+## Writing Markdown
+
+### Links:
+  - Markdown link convention can be used to point users to more information, references or community opinions
+  - use `see ref ->` to point user to technical reference & documentation: [see ref ->](https://sass-lang.com/guide#topic-4)
+  - use `see more ->` to point users to community answers or opinionated content (blogs, vlogs etc..): [see more ->](https://stackoverflow.com/a/56196707)
+
+## Tabs & Spaces
+  - A common tab structure should be set to indent using 1 tab, set as 2 spaces
+  - set your code editor up so 1 tab = 2 space characters
+  - set your code editor up so 1 line indent will indent content by 1 tab / 2 spaces
 
 ## Common Gitignore
 
 Current `.gitignore`
 
 ```
-# ignore .DS_Store [see ref.](https://en.wikipedia.org/wiki/.DS_Store)
+# .gitignore [see ref ->](https://git-scm.com/docs/gitignore#_pattern_format)
+# ignore .DS_Store [see more ->](https://en.wikipedia.org/wiki/.DS_Store)
 .DS_Store
 # ignore node_modules directory created by NPM or YARN
 node_modules/
