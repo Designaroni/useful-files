@@ -22,8 +22,8 @@ This directory contains terminal profiles and other information useful for opera
   - Using a shell commands standard output as a value for other scripts
     - Enclosing commands in `$(…)` or backticks `` ` … ` `` can be used to pass the standard output of one command as the input or argument for another
     - This is known as Command Substitution 
-      - (see ref ->)[https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_06_03]
-      - (see more ->)[https://unix.stackexchange.com/a/126928]
+      - [see ref ->](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_06_03)
+      - [see more ->](https://unix.stackexchange.com/a/126928)
     - example command `which fswatch` shows the full path of shell commands:
         >`$ which fswatch`
         
