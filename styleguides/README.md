@@ -4,7 +4,6 @@
 - **As a standing rule of style & organization use lowercase-kabob-case as your directory naming convention**
 - **NoCamelCase**
 - **No Directories With Spaces**
-- **lowercase-kabob-case-only-thanks**
 - **If you add a project directory or update an existing directory please update this README.md and update or create any other appropriate README.md files**
 
 ## Directory & Filename Conventions
@@ -67,6 +66,24 @@ package-lock.json
 .eslintcache
 ```
 
-If you are working with an editor (like Atom) that does not show content listed in `.gitignore` files, you can temporarily comment out lines of the gitignore file or use a file manager / editor like Visual Studio Code.
+If you are working with an editor (like Atom) that does not show content listed in `.gitignore` files, you can temporarily comment out lines of the `.gitignore` file or use a file manager / editor like Visual Studio Code.
 
 **If you update the `.gitignore` file please update this README.md**
+
+## Opensource & Public Developer Styleguides
+
+  - Google:
+    - https://google.github.io/styleguide/
+    - https://google.github.io/styleguide/vimscriptguide.xml
+    - https://google.github.io/styleguide/jsguide.html
+    - > If you are going to be humorous, be like our friend [Uther](https://google.github.io/styleguide/jsguide.html#appendices-documentation-annotations)
+    - https://google.github.io/styleguide/htmlcssguide.html
+    - https://developers.google.com/style
+      - found it via searching for documentation on common developer documentation practices for writing terminal commands & shell code syntax https://developers.google.com/style/code-syntax
+
+
+  - Airbnb:
+    - https://github.com/airbnb/javascript
+
+  - Facebook:
+    - ?
