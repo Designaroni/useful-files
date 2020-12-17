@@ -10,6 +10,8 @@ The directory `terminal` is home to macOS terminal color profiles and helpful ti
 ---
 
 TODO:
+- redocument this...
+-
 - git
   - a directory related git commands & https://git-scm.com/
 - zsh
