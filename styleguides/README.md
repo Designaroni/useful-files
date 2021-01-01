@@ -6,6 +6,12 @@
 - **No Directories With Spaces**
 - **If you add a project directory or update an existing directory please update this README.md and update or create any other appropriate README.md files**
 
+## Technical Writing Resources & References
+
+  - https://developers.google.com/tech-writing
+  - https://developers.google.com/season-of-docs/
+  - start from zero aka `doc zero`
+
 ## Directory & Filename Conventions
 
 - Markdown (.md) files should be declared in all caps: `README.md`, `CHANGELOG.md`, `CONTRIBUTING.md`
@@ -17,14 +23,22 @@
 	- Some React projects may decide to use a folder or file structure that mimics PascalCase component naming conventions [see more ->](https://stackoverflow.com/a/56196707)
 	- in general: keep it kabob-case unless a project, framework or tooling call for something different
 
+
+
 ## Writing Markdown
 
 ### Links:
-  - Markdown link convention can be used to point users to more information, references or community opinions
-  - use `see ref ->` to point user to technical reference & documentation: [see ref ->](https://sass-lang.com/guide#topic-4)
-  - use `see more ->` to point users to community answers or opinionated content (blogs, vlogs etc..): [see more ->](https://stackoverflow.com/a/56196707)
+  - Markdown link convention `[<link-name>](<url-link>)` can be used to point users to more information, techincal references, documentation, blog posts or community opinions
+    - use `**see ref ->**`, including bold markdown symbols, to point user to technical reference & documentation: [see ref ->](https://sass-lang.com/guide#topic-4)
+    - use `**see more ->**`, including bold markdown symbols, to point users to community answers or opinionated content (blogs, vlogs etc..): [see more ->](https://stackoverflow.com/a/56196707)
 
-## Tabs & Spaces
+### Further reading
+
+  - Daring Fireball: [**see more ->**](https://daringfireball.net/projects/markdown/)
+  - Markdownguide(dot)org: [**see more ->**](https://www.markdownguide.org/)
+  - Mastering Markdown [**see more ->**](https://guides.github.com/features/mastering-markdown/)
+
+## Indents, Tabs & Spaces
   - A common tab structure should be set to indent using 1 tab, set as 2 spaces
   - set your code editor up so 1 tab = 2 space characters
   - set your code editor up so 1 line indent will indent content by 1 tab / 2 spaces
