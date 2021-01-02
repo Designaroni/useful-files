@@ -11,9 +11,13 @@ Install oh my zsh
  - @see https://ohmyz.sh/#install
 Setup ssh key for github
 Setup global git name
+ - 
 Setup global git email
+ - 
 install vim
+ - sudo apt install vim
 set vim as default commit editor
+ - git config --global core.editor "vim"
 git clone repositores
 install node / npm / nvm
  - node
