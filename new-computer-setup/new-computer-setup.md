@@ -10,6 +10,10 @@ Install oh my zsh
  - @see https://askubuntu.com/questions/1032567/install-zsh-in-ubuntu-18-04
  - @see https://ohmyz.sh/#install
 Setup ssh key for github
+Setup global git name
+Setup global git email
+install vim
+set vim as default commit editor
 git clone repositores
 install node / npm / nvm
  - node
