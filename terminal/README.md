@@ -44,3 +44,9 @@ This directory contains terminal profiles and other information useful for opera
         expected output :
 
         >`FILE(1) BSD General Commands Manual FILE(1) NAME file...`
+
+  - Changing Between Shells on Linux machine
+    - Useful for working with Pop!_OS
+    - $ chsh -s `which zsh`
+    - $ chsh -s /bin/bash
+    - $ gnome-session-quit to log user out or just open new terminal window to open new default shell, current window will remain with current bash or zsh shell
