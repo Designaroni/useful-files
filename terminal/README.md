@@ -50,3 +50,6 @@ This directory contains terminal profiles and other information useful for opera
     - $ chsh -s `which zsh`
     - $ chsh -s /bin/bash
     - $ gnome-session-quit to log user out or just open new terminal window to open new default shell, current window will remain with current bash or zsh shell
+
+  - Muting macos login prompt
+    - $ touch ~/.hushlogin
